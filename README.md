@@ -49,3 +49,18 @@ dns.qry.name contains "update-check"
 
 # Suspicious ports
 tcp.port == 4444 or tcp.port == 1337
+Recommendations:
+
+>Shows you are not just finding problems, but solving them
+
+>Employers want to see remediation skills
+
+>Makes the report actionable (not just theoretical)
+
+Conclusion
+
+>Provides professional closure to the report
+
+>Summarizes key takeaways for executives
+
+>Demonstrates communication skills
